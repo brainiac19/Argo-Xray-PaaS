@@ -21,7 +21,6 @@ cat > config.json << EOF
                 "clients":[
                     {
                         "id":"${UUID}",
-                        "flow":"xtls-rprx-direct"
                     }
                 ],
                 "decryption":"none",
