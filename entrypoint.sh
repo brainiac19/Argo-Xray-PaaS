@@ -20,7 +20,7 @@ cat > config.json << EOF
             "settings":{
                 "clients":[
                     {
-                        "id":"${UUID}",
+                        "id":"${UUID}"
                     }
                 ],
                 "decryption":"none",
